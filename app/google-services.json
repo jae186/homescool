@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "47165042040",
+    "firebase_url": "https://homescool-34440.firebaseio.com",
+    "project_id": "homescool-34440",
+    "storage_bucket": "homescool-34440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47165042040:android:fa433caed469a556132c8d",
+        "android_client_info": {
+          "package_name": "com.android.homescool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47165042040-l33klr6jb32pm9406ofpacv9tgvlssj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.homescool",
+            "certificate_hash": "284de6c8f039f44cc322849193b6849d0b1a12a7"
+          }
+        },
+        {
+          "client_id": "47165042040-qtkr9accnent6ure3ic13l4evugla66a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzzhKmyVY0TAxtnBrQRFums9BLpPcwUsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47165042040-hbhesdecol837o58bb5cj7tg239o83s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
